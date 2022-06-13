@@ -5,7 +5,7 @@
 
 -----
 This repository contains one computational notebook: 
-- vi_image_classificaiton.ipynb ([Jupyter notebook](https://github.com/Astroinformatics/VariationalInference/blob/main/vi_image_classificaiton.ipynb)):  Applies modern variation inference to classifying astronomical images as stars or galaxies
+- vi_image_interpretation.ipynb ([Jupyter notebook](https://github.com/Astroinformatics/VariationalInference/blob/main/vi_image_interpretation.ipynb)):  Applies modern variation inference to interpreting astronomical images of stars
 
 ---
 
